@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.0.2 - 2026-10-14
+
+- Removed the "A little context for your future self." footer from the example entry.
+
 ## 4.0.1 - 2026-10-14
 
 - Removed the "Yours from the first word." and "A thought today. Context for tomorrow." copy.
