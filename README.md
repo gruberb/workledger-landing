@@ -6,17 +6,13 @@
 
 <p align="center">Marketing site for <a href="https://github.com/gruberb/workledger">WorkLedger</a> — deployed at <a href="https://about.workledger.org">about.workledger.org</a>.</p>
 
-<p align="center">
-  <img src="landing.png" alt="WorkLedger landing page" width="720">
-</p>
-
 ## Overview
 
 A static landing page with no build dependencies. Deployed on Vercel with analytics injected via environment variable.
 
 ## Development
 
-Open `index.html` in a browser — no build step needed for local development.
+Run `bash build.sh`, then `python3 -m http.server 5180 --directory out` and open `http://localhost:5180`. Fonts, styles, and icons are served locally.
 
 ## Deployment
 
