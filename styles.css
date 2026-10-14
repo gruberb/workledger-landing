@@ -41,7 +41,6 @@ svg { vertical-align:middle; }
 .win { background:#f9d4b4; }
 .demo-foot { display:flex; align-items:center; gap:8px; margin-top:23px; font-size:12px; color:var(--muted); }
 .dot { width:8px; height:8px; border-radius:50%; background:#43845b; display:inline-block; flex-shrink:0; }
-.annotation { display:block; text-align:right; margin-top:28px; font-size:13px; color:var(--muted); }
 .benefits,.features,.faq { border-top:1.5px solid var(--ink); padding:70px 0 80px; }
 .section-title { font-size:clamp(30px,3vw,42px); line-height:1.15; letter-spacing:-1.3px; font-weight:700; margin:12px 0 36px; }
 .benefit-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:50px; }
