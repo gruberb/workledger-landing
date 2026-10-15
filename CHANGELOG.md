@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.1.0 - 2026-10-15
+
+- Mentioned that single notes download as PDF and Word (.docx) as well as Markdown, matching WorkLedger 4.1.0.
+
 ## 4.0.2 - 2026-10-14
 
 - Removed the "A little context for your future self." footer from the example entry.
