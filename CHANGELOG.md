@@ -1,5 +1,10 @@
 # Changelog
 
+## 4.2.0 - 2026-11-09
+
+- Signifier badges have the ink frame of the app's stickers, matching WorkLedger 4.6.0.
+- The WRITE feature describes the app's new page layout: every day is its own page in a readable column.
+
 ## 4.1.0 - 2026-10-15
 
 - Mentioned that single notes download as PDF and Word (.docx) as well as Markdown, matching WorkLedger 4.1.0.

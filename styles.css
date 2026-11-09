@@ -37,7 +37,7 @@ svg { vertical-align:middle; }
 .demo-code { font:14px/1.9 ui-monospace,monospace; white-space:pre-wrap; padding:14px; background:var(--paper); border-radius:3px; }
 .entry-tags { display:flex; flex-wrap:wrap; gap:7px; margin-top:20px; }
 .tag { display:inline-flex; padding:3px 9px; border:1px solid var(--line); border-radius:4px; font-size:13px; color:var(--muted); background:var(--surface); }
-.badge { display:inline-flex; background:var(--mint); color:#202331; padding:4px 9px; border-radius:3px; font-size:12px; font-weight:700; }
+.badge { display:inline-flex; align-items:center; background:var(--mint); color:#202331; padding:3px 8px; border:1.5px solid var(--ink); border-radius:4px; font-size:12px; font-weight:700; }
 .win { background:#f9d4b4; }
 .benefits,.features,.faq { border-top:1.5px solid var(--ink); padding:70px 0 80px; }
 .section-title { font-size:clamp(30px,3vw,42px); line-height:1.15; letter-spacing:-1.3px; font-weight:700; margin:12px 0 36px; }
