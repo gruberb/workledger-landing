@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.3.0 - 2026-11-10
+
+- Open loops replaces the weekly review, matching WorkLedger 4.8.0: the "Close the loop." benefit and the FOLLOW UP feature describe it, and the meta description mentions open to-dos.
+
 ## 4.2.0 - 2026-11-09
 
 - Signifier badges have the ink frame of the app's stickers, matching WorkLedger 4.6.0.
